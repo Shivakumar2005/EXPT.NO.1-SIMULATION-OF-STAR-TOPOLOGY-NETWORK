@@ -18,19 +18,12 @@ STEP 7: Repeat the Step:6 for all the PC Terminals.
 STEP 8: click on the PC Terminal and Select Terminal from the Desktop tab to verify the connectivity between the PC Terminals using Ping Command.
 STEP 9: Select “add simple PDU” from tool bar and place it in source and destination PC Terminals to verify the connectivity
 
-
-
-# IP CONNECTIVITY TABLE
-
-
-
 # NETWORK DIAGRAM
-
-
+<img width="1599" height="640" alt="image" src="https://github.com/user-attachments/assets/8db8427a-6732-4cc0-a188-0dd4f49ff7f0" />
 
 
 # OUTPUT
-
+<img width="1599" height="847" alt="image" src="https://github.com/user-attachments/assets/9db125b2-c4fc-4107-acc7-07ab66d93320" />
 
 # RESULT
 
