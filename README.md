@@ -10,6 +10,7 @@ Cisco Packet Tracer 5.0 Software.
 
 
 # PROCEDURE
+```
 STEP 1: Open a Packet Tracer Software.
 STEP 2: Drag a 2950 Switch from tool bar and drop it in work area. STEP 3: Drag a PC Terminal from tool bar and drop it in work area. STEP 4: Repeat the Step:3 for four terminals.
 STEP 5: Select Copper straight-through cable from tool bar and connect each PC Terminal with 2950 switch in different ports.
@@ -17,7 +18,7 @@ STEP 6: Click on the PC Terminal, Select the fast Ethernet Interface from config
 STEP 7: Repeat the Step:6 for all the PC Terminals.
 STEP 8: click on the PC Terminal and Select Terminal from the Desktop tab to verify the connectivity between the PC Terminals using Ping Command.
 STEP 9: Select “add simple PDU” from tool bar and place it in source and destination PC Terminals to verify the connectivity
-
+```
 # NETWORK DIAGRAM
 <img width="1599" height="640" alt="image" src="https://github.com/user-attachments/assets/8db8427a-6732-4cc0-a188-0dd4f49ff7f0" />
 
